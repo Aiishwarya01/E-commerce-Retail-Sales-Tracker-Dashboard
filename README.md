@@ -1,6 +1,6 @@
 # 🛍️ Online & In-Store Sales Dashboard
 
-This Power BI dashboard analyzes sales performance across online and in-store channels using DAX measures created directly in the Tabular Model View (TMDL).
+This Power BI dashboard analyzes sales performance across online and in-store channels using DAX measures created directly in the Tabular Model View (TMDL).The dashboard is designed to help stakeholders quickly grasp business performance metrics like Total Sales, Orders, Customers, and Returns.
 
 ---
 
