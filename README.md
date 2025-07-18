@@ -1,2 +1,43 @@
-# sales_performance_dashboard
-Power BI dashboard project analyzing online and in-store sales performance using TMDL view feature and DAX. Interactive visuals and drill-through analysis included.
+# 🛍️ Online & In-Store Sales Dashboard
+
+This Power BI dashboard analyzes sales performance across online and in-store channels using DAX measures created directly in the Tabular Model View (TMDL).
+
+---
+
+## 🔧 Key Features
+- KPIs: Total Sales ($785K), Orders (633), Customers (570), AOV ($1K)
+- MoM% Growth Calculations
+- DAX measures built in Model View
+- Sales breakdown by Country, Product, Channel
+- Shipment Provider & Return Rate Insights
+- Drillthrough Table for invoice-level detail
+  
+---
+
+## 📁 Files Included
+- `online_sales.pbix` – Power BI dashboard
+- `sales_dashboard.png` – Dashboard overview snapshot
+
+---
+
+## 📸 Dashboard Preview
+
+![Power BI Dashboard]
+
+---
+
+## 🛠 Tools Used
+- Power BI Desktop
+- DAX (Model View / TMDL)
+  
+---
+
+## 📬 Contact
+
+**Aishwarya SR**  
+
+📧 aishwaryasr097@gmail.com 
+
+🔗 [LinkedIn](https://www.linkedin.com/in/aishwarya-sr/)  
+
+💻 [GitHub](https://github.com/Aiishwarya01)
