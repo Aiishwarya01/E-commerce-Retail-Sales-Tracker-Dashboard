@@ -17,7 +17,7 @@ This Power BI dashboard analyzes sales performance across online and in-store ch
 ## 📁 Files Included
 - `online_sales.pbix` – Power BI dashboard
 - `sales_overview.png` – Dashboard overview snapshot
-- - `sales_details.png`
+- `sales_details.png`
 
 ---
 
